@@ -1,0 +1,38 @@
+2Q20 revenue was $10.38 billion, which increased 34.1% year-over-year and increased 0.8% from the previous quarter 
+2020 CapEx is raised to be between US$16 and US$17 billion in order to support customers’ needs, considering the multi-year megatrends of 5G-related and HPC applications are expected to continue to drive strong demand for our advanced technologies in the next several years
+N3 logic test chip is fully functional with yield ahead of plan; provides ~70% logic density gain, 10%~15% speed gain, or 25%~30% power improvement over N5; Use FinFET transistor structure to deliver best technology maturity and performance; Risk production scheduled in 2021 and volume production targeted in 2H22
+N4 extends N5 values with further performance, power, and density enhancement by leveraging extensive Si learning; Volume production targeted in 2022
+Plus mask layer reduction
+N5P provides ~20% faster speed or ~40% power reduction than N7;  Enablement of N5P released in 2Q20 as planned 
+N5 entered volume production with good yield; expects a very fast and smooth ramp in 2H20
+Customer product tape-outs in mobile, 5G, AI, networking and various HPC applications have been planned and multiple tape-outs received from 2Q19
+N6 is introduced to offer N7 customers a cost-effective path via masking layer reduction through EUV and logic density improvement
+N6 rules are compatible with N7 IPs for easy migration
+Already entered risk production; volume production planned by end of this year, with >10 product tape-outs expected in 2020
+Kicked off N6 RF technology development in 2Q20 for advanced wireless connectivity and 5G applications; design enablement to be ready in 3Q21
+N7+, world’s first commercially available EUV process, entered volume production in 2Q19 with yield similar to N7; delivered customers' end products in the market in high volume since 3Q19
+N7/N7+ volume production continues with excellent yield; >140 customer product tape-outs and growing
+Accounted for about 27% of TSMC wafer revenue in 2019
+12FFC and 16FF+/FFC in high-volume shipment with excellent yield
+A total of >580 customer product tape-outs
+12FFC yield is stable and received >110 product tape-outs
+16FFC successfully qualified in automotive platform and have received >10 product tape-outs up to now
+Enhanced offering 16FFC+ provides 8% extra performance gain at the same power or 20% power saving at the same speed over 16FFC, while 12FFC+ provides 5% extra performance gain at the same power or 10% power saving at the same speed over 12FFC
+16FFC RF offers specially modeled active and passive devices for RF applications 
+Received a total of >10 product tape-outs 
+Customer products are in high volume production now
+Applications range from 5G transceiver to wireless connectivity
+Released 16FFC RF enhancement I model/PDK to enable mmWave product designs
+22ULP and 22ULL completed full process and product qualification
+>60 customer product tape-outs completed; a total of >100 product tape-outs expected by end of 2020
+Released 22ULL Low Vdd foundation IP and design guideline to enable 0.6V design 
+Supports embedded MRAM & RRAM; 22nm MRAM ready for production 
+Wide-range applications, including digital television, WiFi, Bluetooth, Low Power MCU, Audio Codec, and Image Signal Processor 
+22ULP/ULL RF adopted by mmWave and wireless connectivity applications
+Provides higher fT (cut-off frequency) and better intrinsic gain over 28HPC+ RF
+Features 10% die size shrink, 10% additional performance improvement, and 20% power reduction
+Offers 3.3V (Vmax) HVMOS for WiFi power amplifier integration
+28HPC+ RF adopted by 5G RF Transceiver and Automotive Radar RF applications
+28HPC+ RF PDK Version 1.8 released in May 2019; Frequency extended to 110GHz to support  mmWave designs
+
+
